@@ -1,4 +1,45 @@
 # patterns-using-shell-scripting
 It's a code for patterns
 
-<h1> Instructions </h1>
+# Instructions
+Script takes two parameters:
+
+_pattern_option (left, right, or full)
+_number
+
+For n = 5
+left 
+
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+
+full
+
+      *
+     ***
+    *****
+   *******
+  *********
+   *******
+    *****
+     ***
+      *
+
+right 
+
+      *
+     **
+    ***
+   ****
+  *****
+   ****
+    ***
+     **
+      *
