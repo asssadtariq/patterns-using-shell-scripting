@@ -8,18 +8,7 @@ _pattern_option (left, right, or full) <br />
 _number <br />
 <br />
 For n = 5 <br />
-left <br /> 
-<br />
- * <br />
- ** <br />
- *** <br />
- **** <br />
- ***** <br />
- **** <br />
- *** <br />
- ** <br />
- * <br />
-<br />
+
 full <br />
 <br />
       * <br />
